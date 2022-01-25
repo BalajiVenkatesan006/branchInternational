@@ -9,8 +9,8 @@ One Agent can respond to one customer at a time, this will elimate the Agents ha
 The messages are stored in the relational database system. 
 
 Tech Used:
-Spring boot application with gradle build system.
-Connected to RDBMS- postgresql
-Websocket is used to enable the chat feature.
+- Spring boot application with gradle build system.
+- Connected to RDBMS- postgresql
+- Websocket is used to enable the chat feature.
 
 
